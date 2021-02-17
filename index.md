@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "sa2c_mpi"    # what kind of Carpentry (must be either "lc", "dc", "swc", "sa2c" or "sa2c_mpi")
-venue: "Online"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Introduction to Parallel Programming with MPI (online)"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Zoom, link to be circulated to registered attendees"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
