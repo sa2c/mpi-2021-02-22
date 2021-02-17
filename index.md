@@ -445,7 +445,7 @@ recon_channel: # https://recon.swansea.ac.uk/#narrow/stream/29-Introduction-to-M
           </ol>
         </li>
       </ol>
-      <p>This will provide you with both the Cygwin Shell and OpenMPI.</p>
+      <p>This will provide you with both the Cygwin Shell and Open MPI.</p>
     </div>
     <div class="col-md-4">
       <h4 id="shell-macosx">macOS</h4>
@@ -473,7 +473,7 @@ recon_channel: # https://recon.swansea.ac.uk/#narrow/stream/29-Introduction-to-M
   <h3>MPI Worshop Requirements </h3>
 
   <p>
-    OpenMPI is an open source implementation of the MPI standard.
+    Open MPI is an open source implementation of the MPI standard.
     It is widely available and straightforward to install on most systems.
     However, when using using Visual Studio on Windows,
     it is easier to install and use the Microsoft implementation of MPI.
@@ -948,3 +948,48 @@ recon_channel: # https://recon.swansea.ac.uk/#narrow/stream/29-Introduction-to-M
   </ol>
 </div>
 {% endcomment %}
+
+
+<h3 id="videoconferencing">Install the videoconferencing client</h3>
+
+{% comment %}
+Replace the paragraph below with the relevant installation instructions
+if you do not use Zoom
+{% endcomment %}
+<p>
+  If you haven't used Zoom before, go to the
+  <a href="https://zoom.us/download">official website</a>
+  to download and install the Zoom client for your computer.
+</p>
+
+
+<h4>Set up your workspace</h4>
+
+<p>
+  Like other Carpentries workshops,
+  you will be learning by "coding along" with the Instructors.
+  To do this, you will need to have both the window for the tool
+  you will be learning about (a terminal, RStudio, your web browser, etc..)
+  and the window for the Zoom video conference client open.
+  In order to see both at once,
+  we recommend using one of the following set up options:
+  <ul>
+    <li><strong>Two monitors:</strong> If you have two monitors,
+      plan to have your terminal up on one monitor and
+      the video conferencing software on the other.</li>
+    <li><strong>Two devices:</strong> If you don't have two monitors,
+      do you have another device (tablet, smartphone) with a medium to large
+      sized screen? If so, try using the smaller device as your video
+      conference connection and your larger device (laptop or desktop)
+      to follow along with the tool you will be learning about.</li>
+    <li><strong>Divide your screen:</strong> If you only have one device
+      and one screen, practice having two windows
+      (the video conference program and one of the tools you will be using
+      at the workshop) open together.
+      How can you best fit both on your screen?
+      Will it work better for you to toggle between them
+      using a keyboard shortcut?
+      Try it out in advance to decide what will work best for you.</li>
+  </ul>
+  This <a href="https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/" target="_blank">blog post</a> includes detailed information on how to set up your screen to follow along during the workshop.
+</p>
