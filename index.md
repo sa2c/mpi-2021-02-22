@@ -470,7 +470,7 @@ recon_channel: # https://recon.swansea.ac.uk/#narrow/stream/29-Introduction-to-M
     </div>
   </div>
 
-  <h3>MPI Worshop Requirements </h3>
+  <h3>MPI Workshop Requirements</h3>
 
   <p>
     Open MPI is an open source implementation of the MPI standard.
@@ -480,7 +480,7 @@ recon_channel: # https://recon.swansea.ac.uk/#narrow/stream/29-Introduction-to-M
   </p>
 
   <p>
-    Follow the instruction on the <a href="https://rantahar.github.io/introduction-to-mpi/setup.html">workshop setup page</a>.
+    Follow the instructions on the <a href="https://rantahar.github.io/introduction-to-mpi/setup.html">workshop setup page</a>.
     Install an implementation of MPI, CMocka or FRUIT, and the CubeGUI from the
     Scalasca section.
   </p>
